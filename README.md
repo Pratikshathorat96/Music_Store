@@ -9,7 +9,13 @@ To examine the dataset with SQL and help the store understand its business growt
 2. PgAdmin4
 
 Schema Music store database
+
+
+
 ![MusicDatabaseSchema](https://github.com/Pratikshathorat96/Music_Store/assets/120496034/aaf9d16b-ce3c-423f-a92c-861493c5c198)
+
+
+
 
 # Observation 
 1. Mohan Madan is the senior most employee based on job title.
